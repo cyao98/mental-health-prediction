@@ -5,9 +5,10 @@ Through this project, I explored the data gathered from a survey on mental healt
 Data Source: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
 
-Requirements: 
-all required libraries are in this file:
+
+All required libraries are in this file:
 environment.yaml
+
 
 to install:
 pip install -r environment.yaml
